@@ -8,14 +8,14 @@
 		"react-native",
 		"sound",
 		"player",
-    "audio",
-    "streaming"
+		"audio",
+		"streaming"
 	],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/johnsonsu/react-native-sound-player"
-  },
-  "author": {
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/johnsonsu/react-native-sound-player"
+	},
+	"author": {
 		"name": "Johnson Su",
 		"email": "johnsonsu@johnsonsu.com"
 	},
